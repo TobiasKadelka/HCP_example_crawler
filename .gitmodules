@@ -240,7 +240,7 @@
 	datalad-id = 2beb57b6-a3c9-11e9-b6e3-a44cc8d94c21
 [submodule "123420"]
 	path = 123420
-	url = ./123420
+	url = https://github.com/TobiasKadelka/123420
 	datalad-id = 2c53b70c-a3c9-11e9-b6e3-a44cc8d94c21
 [submodule "123925"]
 	path = 123925
